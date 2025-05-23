@@ -1,4 +1,52 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_81d82b922721afd36f3b3d2e1ac,agent_013449690bb91bf30736266dc9,14429005795,916303963483,ongoing,"5/23/2025, 11:46:11 AM",-,-,63039634sz@gmail.com,-,-,-,False,-,,-,-
+$-,call_95546d4eab4b31f9f70618ea2ec,agent_013449690bb91bf30736266dc9,14429005795,916264919491,ongoing,"5/23/2025, 11:46:07 AM",-,-,poojasinha2811@gmail.com,-,-,-,False,-,,-,-
+$0.36,call_12e0e3f2969b4c62b3e262eb4f5,agent_013449690bb91bf30736266dc9,14429005795,916264919491,ended,"5/23/2025, 11:44:53 AM","5/23/2025, 11:47:52 AM",180,poojasinha2811@gmail.com,"User: Hello. 
+Agent: हैलो, मैं मेहर बोल रही 
+User: Hello हां. जी जी.
+User: Hello?
+User: Ma'am आपका customer care number क्यों नहीं लगता है? Hello hello.
+User: Hello. Hello. Hello hello
+Agent: हैलो Pooja! क्या मेरी आवाज़ आ रही है?
+User: Hello. हां आपकी आवाज़ आ रही है madam आपका customer care number क्यों नहीं लगता?
+Agent: अरे Pooja, अच्छा हुआ आपकी आवाज़ सुनाई दी!
+User: Hello हां आपकी आवाज़ आ रही है madam? आपका customer care number क्यों नहीं लगता और आपका number कहां से है जो मेरे में international calls show कर रहा है? Hello आप कहां से बात कर रहे हैं?
+User: रहे हैं? Hello hello
+User: Hello
+User: आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है.
+User: कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं, उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें.
+",https://dxc03zgurdly9.cloudfront.net/059b58749ff6ba3db6d389289e7aad2fe1551383bce6cf964a728a1dbe3b1906/recording.wav,Negative,False,"The user, Pooja, is experiencing issues with the customer care number not connecting and is confused about international calls showing up. The call seems to be interrupted multiple times with the agent putting the call on hold, leading to frustration for the user.","elevenlabs_tts, gpt_4o",180,max_duration_reached
+$0.02,call_518f9379949ab4759850b956089,agent_013449690bb91bf30736266dc9,14429005795,918075269894,ended,"5/23/2025, 11:44:50 AM","5/23/2025, 11:44:59 AM",9,shifashmsdhn@gmail.com,"User: Hello
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog 
+",https://dxc03zgurdly9.cloudfront.net/9477e4c6e2691cfba8feabb4d087866d6f3fc9367a42143bf5d9134ec3f9e1a0/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Mehr from Urban Yog. The call appears to be in the early stages of conversation.","elevenlabs_tts, gpt_4o",9,user_hangup
+$-,call_9869133bc1a64f1dc0ce9403e95,agent_013449690bb91bf30736266dc9,14429005795,919597621960,error,"5/23/2025, 11:41:30 AM","5/23/2025, 11:41:30 AM",-,marisankar28@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_bccd4ae96ac64d2eaf8e8628b7d,agent_013449690bb91bf30736266dc9,14429005795,919340993548,error,"5/23/2025, 11:26:31 AM","5/23/2025, 11:26:31 AM",-,namrata.khullar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.21,call_5d5580b9e4b74a48bd34139288c,agent_013449690bb91bf30736266dc9,14429005795,919400539067,ended,"5/23/2025, 11:26:17 AM","5/23/2025, 11:28:02 AM",106,rajanimnarikot@gmail.com,"User: Hello? 
+User: Hello
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: हैलो राजनी! मैं मेहर बोल रही 
+User: Yeah speaking. You are not able 
+Agent: हूँ Urban Yog से। आपने Urban Yog Electric 
+User: to
+Agent: Oh, hi Rajani! Sorry about that earlier. I’m Meher calling from Urban Yog. I noticed you almost checked out the Urban Yog Electric Facial Hair Remover for Women for ₹849. Just wanted to check in—everything okay?
+User: Because I just want to know whether because I had 1 thing which I bought it before but it was not working. That is not an electrical 1. It's a battery operator years back. So this I don't know whether it is good or not.
+Agent: Ah, I totally get that, Rajani! If you’ve had a not-so-great experience before, it’s natural to be cautious. But let me tell you, this one’s a game-changer.The Urban Yog Electric Facial Hair Remover is rechargeable, not battery-operated, so no hassle of replacing batteries. Plus, it’s designed with precision stainless steel blades, which are super gentle on the skin—no pain, no redness. And the best part? It’s compact and portable, so you can carry it anywhere for quick touch-ups.Would you like me to share more details or answer any specific questions about it?
+",https://dxc03zgurdly9.cloudfront.net/9eba8b8d753b30ce59e3e0de507e87f2edd9eeb82493860d111c91e504a75149/recording.wav,Neutral,True,"The user, Rajani, expressed concerns about a previous non-electrical hair remover that did not work well. The agent, Meher from Urban Yog, reassured Rajani about the benefits of the Urban Yog Electric Facial Hair Remover, highlighting its rechargeable feature and gentle design, and offered to provide more information.","elevenlabs_tts, gpt_4o",106,user_hangup
+$-,call_8b551da66cae917e5eb146ef475,agent_013449690bb91bf30736266dc9,14429005795,918668820473,error,"5/23/2025, 11:25:10 AM","5/23/2025, 11:25:10 AM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_849b1c9c802298f56fae92fc657,agent_013449690bb91bf30736266dc9,14429005795,919340993548,error,"5/23/2025, 11:21:30 AM","5/23/2025, 11:21:30 AM",-,namrata.khullar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_12102fc8499b9231c4e58cf0860,agent_013449690bb91bf30736266dc9,14429005795,918668820473,error,"5/23/2025, 11:16:33 AM","5/23/2025, 11:16:33 AM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.04,call_a10b1404612d1452d381b68b7a5,agent_013449690bb91bf30736266dc9,14429005795,919687616425,ended,"5/23/2025, 11:13:36 AM","5/23/2025, 11:13:55 AM",19,peehupatel2012@gmail.com,"User: Hello.
+Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+Agent: Hi 
+",https://dxc03zgurdly9.cloudfront.net/d84c549260f946a6f5295d3fe33f2da95902dc2407e213703da654bed66314d1/recording.wav,Neutral,False,"The user was greeted by the agent, Mehr, from Urban Yog, who informed them about an additional 5% discount available for a product added to their cart. The agent offered to help the user claim the discount.","elevenlabs_tts, gpt_4o",19,user_hangup
+$0.08,call_78bb57dbccd07e1b115ccefe343,agent_013449690bb91bf30736266dc9,14429005795,919920351615,ended,"5/23/2025, 11:09:53 AM","5/23/2025, 11:10:34 AM",41,bhavanacutie1809@gmail.com,"Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: Hello.
+User: आशीष?
+User: Ok.
+User: आप तो COD करवा दो फिर.
+User: Hello?
+User: Hello hello मेरा हुआ मेरा, मेरा कर देना यार. Hard case. हां hello
+",https://dxc03zgurdly9.cloudfront.net/7e9469552d1f7af80a26a25c137603ff26d0e0c30fad9ff7f2e93def357ea4bb/recording.wav,Neutral,True,"The user, Ashish, was contacted by the agent from Urban Yog regarding a product added to the cart and a special discount offer. The user requested to proceed with a Cash on Delivery (COD) option for the hard case product.","elevenlabs_tts, gpt_4o",41,user_hangup
 $0.05,call_ad137aa0f00f5d0ce9708c2466b,agent_013449690bb91bf30736266dc9,14429005795,919356132858,ended,"5/23/2025, 11:06:29 AM","5/23/2025, 11:06:51 AM",23,sainisoniya880@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ Urban Yog से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 Agent: Hi!
